@@ -1,2 +1,2 @@
 # face_recognition
-F R
+Face Recognition for mobile phone 
